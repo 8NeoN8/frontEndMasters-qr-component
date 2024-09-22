@@ -25,11 +25,11 @@
     background-color: hsl(212, 45%, 89%);
     display: flex;
     justify-content: center;
+    align-items: center;
     opacity: 1;
   }
   
   .content-container{
-    margin-top: 14.3rem;
     background-color: hsl(0, 0%, 100%);
     display: flex;
     flex-direction: column;
